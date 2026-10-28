@@ -1,0 +1,8 @@
+*.jpeg
+*.jpg
+*.png
+*.pdf
+*.docx
+__pycache__/
+.venv/
+venv/
